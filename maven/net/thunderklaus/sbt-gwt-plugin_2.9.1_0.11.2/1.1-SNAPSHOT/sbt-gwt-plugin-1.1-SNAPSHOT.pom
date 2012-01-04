@@ -11,14 +11,14 @@
         <name>net.thunderklaus</name>
     </organization>
     <properties>
-        <sbtVersion>0.11.0</sbtVersion>
+        <sbtVersion>0.11.2</sbtVersion>
         <scalaVersion>2.9.1</scalaVersion>
     </properties>
     <dependencies>
         <dependency>
             <groupId>org.scala-tools.sbt</groupId>
             <artifactId>sbt_2.9.1</artifactId>
-            <version>0.11.0</version>
+            <version>0.11.2</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.github.siasia</groupId>
             <artifactId>xsbt-web-plugin_2.9.1</artifactId>
-            <version>0.11.0-0.2.8</version>
+            <version>0.11.2-0.2.10</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
