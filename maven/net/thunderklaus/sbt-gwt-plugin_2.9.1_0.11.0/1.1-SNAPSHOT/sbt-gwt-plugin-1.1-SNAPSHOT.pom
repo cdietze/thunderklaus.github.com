@@ -29,8 +29,8 @@
         </dependency>
         <dependency>
             <groupId>com.github.siasia</groupId>
-            <artifactId>xsbt-web-plugin</artifactId>
-            <version>0.1.2</version>
+            <artifactId>xsbt-web-plugin_2.9.1</artifactId>
+            <version>0.11.0-0.2.8</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
