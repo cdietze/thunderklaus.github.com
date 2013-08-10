@@ -12,8 +12,8 @@
     </organization>
     <properties>
         <sbtVersion>0.12</sbtVersion>
-        <scalaVersion>2.9.2</scalaVersion>
-        <extraDependencyAttributes xml:space="preserve">+e:scalaVersion:#@#:+2.9.2:#@#:+revision:#@#:+0.4.0:#@#:+module:#@#:+xsbt-web-plugin:#@#:+e:sbtVersion:#@#:+0.12:#@#:+organisation:#@#:+com.earldouglas:#@#:+branch:#@#:+@#:NULL:#@:#@#:</extraDependencyAttributes>
+        <scalaVersion>2.9.3</scalaVersion>
+        <extraDependencyAttributes xml:space="preserve">+e:scalaVersion:#@#:+2.9.3:#@#:+revision:#@#:+0.4.0:#@#:+module:#@#:+xsbt-web-plugin:#@#:+e:sbtVersion:#@#:+0.12:#@#:+organisation:#@#:+com.earldouglas:#@#:+branch:#@#:+@#:NULL:#@:#@#:</extraDependencyAttributes>
     </properties>
     <dependencies>
         <dependency>
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
-            <version>2.9.2</version>
+            <version>2.9.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
